@@ -13,10 +13,10 @@
 # Retroarchievements
 ## Last Played
 <p align="center">
-<img alt='Tetris and Dr. Mario' src='https://retroachievements.org/Images/023125.png'>
+<img alt='Tetris & Dr. Mario' src='https://retroachievements.org/Images/023125.png'>
 </p>
 
-**Tetris and Dr. Mario**
+**Tetris & Dr. Mario**
 > Playing Tetris Games
 ## Latest archievements
 | Icon | Description | Date | Game |
