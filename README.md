@@ -13,11 +13,11 @@
 # Retroarchievements
 ## Last Played
 <p align="center">
-<img alt='Super Mario All-Stars' src='https://retroachievements.org/Images/109855.png'>
+<img alt='Sonic the Hedgehog 2' src='https://retroachievements.org/Images/084488.png'>
 </p>
 
-**Super Mario All-Stars**
-> Luigi is running and jumping in SMB2's stage 1-2
+**Sonic the Hedgehog 2**
+> Casino Night Zone 2, 75,430 points, No Chaos Emeralds
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
