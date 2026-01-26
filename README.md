@@ -13,11 +13,11 @@
 # Retroarchievements
 ## Last Played
 <p align="center">
-<img alt='Sonic the Hedgehog 2' src='https://retroachievements.org/Images/084488.png'>
+<img alt='Super Mario World 2: Yoshi's Island' src='https://retroachievements.org/Images/112063.png'>
 </p>
 
-**Sonic the Hedgehog 2**
-> Casino Night Zone 2, 75,430 points, No Chaos Emeralds
+**Super Mario World 2: Yoshi's Island**
+> Player starts the Game
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
